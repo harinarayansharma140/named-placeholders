@@ -1,5 +1,30 @@
 # Changelog
 
+## [1.1.4](https://github.com/harinarayansharma140/named-placeholders/compare/v1.1.6...v1.1.4) (2026-01-22)
+
+
+### ⚠ BREAKING CHANGES
+
+* migrate to built in node test runner and remove mocha dependency ([#25](https://github.com/harinarayansharma140/named-placeholders/issues/25))
+
+### Bug Fixes
+
+* Allow named parameters to start with underscore ([d3a37bb](https://github.com/harinarayansharma140/named-placeholders/commit/d3a37bb6fa69e68f70847f8f4dae5fbd8645ba95))
+* improve handling of mixed/nested quotes in query parsing ([aee5c5d](https://github.com/harinarayansharma140/named-placeholders/commit/aee5c5d1ea4b2ba65e7bda16280287a42046481c))
+* improve handling of mixed/nested quotes in query parsing ([#39](https://github.com/harinarayansharma140/named-placeholders/issues/39)) ([aee5c5d](https://github.com/harinarayansharma140/named-placeholders/commit/aee5c5d1ea4b2ba65e7bda16280287a42046481c))
+* resolve dependency conflicts ([#37](https://github.com/harinarayansharma140/named-placeholders/issues/37)) ([bbaa20a](https://github.com/harinarayansharma140/named-placeholders/commit/bbaa20ad8fba546c7e26c8f567ef67c618441836))
+* update repository URL to reflect correct GitHub path ([#56](https://github.com/harinarayansharma140/named-placeholders/issues/56)) ([17c6daa](https://github.com/harinarayansharma140/named-placeholders/commit/17c6daafb08d1edb06952146efdbf0f97263db25))
+
+
+### Miscellaneous Chores
+
+* release 1.1.4 ([5eb5a99](https://github.com/harinarayansharma140/named-placeholders/commit/5eb5a99d4571d39da31a49bdd038ab7504cdd6cd))
+
+
+### Continuous Integration
+
+* migrate to built in node test runner and remove mocha dependency ([#25](https://github.com/harinarayansharma140/named-placeholders/issues/25)) ([178b04e](https://github.com/harinarayansharma140/named-placeholders/commit/178b04ec3a72f807bafd4813ea41b10c5f6b1e4b))
+
 ## [1.1.6](https://github.com/mysqljs/named-placeholders/compare/v1.1.5...v1.1.6) (2025-12-15)
 
 
